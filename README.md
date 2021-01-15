@@ -4,6 +4,8 @@
 ### You can resest game at any moment by clicking on Again button.
 ### If you made a write guess and your score is better than previous one, you got a highscore. 
 
+#### You can play game online on URL: https://prashant-sehgal.github.io/Guess-My-Number/
+
 ## Game preview
 ![alt text](/img/preview1.PNG)
 
