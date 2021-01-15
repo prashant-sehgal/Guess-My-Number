@@ -8,4 +8,4 @@
 ![alt text](/img/preview1.PNG)
 
 ## If you win
-![alt text](/img/winning-previes.PNG)
+![alt text](/img/winning-preview.PNG)
