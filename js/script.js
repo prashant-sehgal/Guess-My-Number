@@ -51,6 +51,6 @@ Elements.againButton.addEventListener('click', () => {
     Elements.score.textContent = score;
     Elements.number.textContent = `?`;
     Elements.guess.value= ``;
-    Elements.body.style.background = `#222`;
+    Elements.body.style.background = `white`;
     Elements.number.style.width = `15rem`;
 })
